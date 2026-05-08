@@ -33,4 +33,4 @@ This system aims to simplify the decision-making process by providing accurate, 
 ## ⚙️ Installation
 1. Clone this repository:
 ```bash
-git clone https://github.com/4zm1/spk_scoring.git
+git clone https://github.com/ulx-23/spk_scoring.git
